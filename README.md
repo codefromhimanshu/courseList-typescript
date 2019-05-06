@@ -1,4 +1,4 @@
-# exl
+# Course List with Typescript
 
 ## Project setup
 ```
